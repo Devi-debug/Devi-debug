@@ -2,9 +2,11 @@
 
 👨‍💻About Me
 
+<p align="left" valign="top">
 🤓My name is Devi prasanna sahoo
 🧑‍🎓Fresher stepping into tech world
 🛠️Learning new things
+</p>
 
 ## 🚀 Language and tools
 
@@ -24,7 +26,7 @@
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devi-debug&show_icons=true&theme=radical)
 
 ## 🔥 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devi-debugE&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devi-debug&layout=compact&theme=radical)
 
 
 ## 🔗 Connect with me
