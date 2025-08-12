@@ -3,9 +3,9 @@
 👨‍💻About Me
 
 <p align="left" valign="top">
-🤓My name is Devi prasanna sahoo
-🧑‍🎓Fresher stepping into tech world
-🛠️Learning new things
+- 🤓My name is Devi prasanna sahoo
+- 🧑‍🎓Fresher stepping into tech world
+- 🛠️Learning new things
 </p>
 
 ## 🚀 Language and tools
